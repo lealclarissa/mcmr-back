@@ -12,14 +12,12 @@ let db = mongoose.connection;
 
 db.on("error", console.log.bind(console, "connection error:"));
 db.once("open", function () {
-  console.log("conexão feita com sucesso.");
+  console.log("Succesfully connected!");
 });
 
-const contacts = require("./routes/contactsRoute");
-const ranking = require("./routes/rankingRoute");
-const partners = require("./routes/partnersRoute");
-const bot = require("./routes/botRoute");
 const home = require("./routes/home");
+const partners = require("./routes/partnersRoute");
+// const ranking = require("./routes/rankingRoute");
 
 app.use(express.json());
 
@@ -33,9 +31,7 @@ app.use(function (req, res, next) {
 });
 
 app.use("/", home);
-app.use("/contacts", contacts);
-app.use("/ranking", ranking);
 app.use("/partners", partners);
-app.use("/bot", bot);
+// app.use("/ranking", ranking);
 
 module.exports = app;
