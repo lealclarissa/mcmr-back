@@ -1,15 +1,15 @@
 <p align="center">
   <a> 
-    <a href="https://mcmr-back.herokuapp.com/"><img src="https://img.shields.io/badge/deploy-heroku.com-blueviolet" alt="Deploy on heroku"></a>
+    <a href="https://mcmr.herokuapp.com/"><img src="https://img.shields.io/badge/deploy-heroku.com-blueviolet" alt="Deploy on heroku"></a>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lealclarissa/mcmr-back">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lealclarissa/mcmr-back">
     <img alt="Github License" src="https://img.shields.io/github/license/lealclarissa/mcmr-back?logo=MIT">
   </a>
 </p>
 
+<!-- BANNER AQUI -->
 
-<p align="center">Projeto time 11 da  
-<a href="hackgrrrl.com">Hack Grrrl 2021</a>
+<p align="center">MEU CRESPO, MINHAS REGRAS
 </p>
 
 <h4 align="center"> 
@@ -25,6 +25,8 @@
 - [Maior desafio](#maior-desafio)
 - [Maior aprendizado](#maior-aprendizado)
 - [Possíveis mudanças](#possíveis-mudanças)
+- [Funcionalidades](#funcionalidades)
+  - [Próximas features](#próximas-features)
 - [Referências](#referências)
 - [Agradecimentos](#agradecimentos)
 - [Autoras](#autoras)
@@ -34,6 +36,8 @@
 =================
 
 ## Objetivo e motivação:
+
+
 
 ## Tecnologias:
 
@@ -47,17 +51,50 @@
 
 ## Escolhas das tecnologias:
 
+As escolhemos por já termos alguma experiência com as mesmas
+
 ## Maior desafio:
+
+Conhecer e aprender a implementar novas tecnologias, como por exemplo o *bot* da @twilio.
 
 ## Maior aprendizado
 
+Fazer o possível dentro do tempo estipulado, trabalhar em equipe.
+
 ## Possíveis mudanças
+
+Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger](https://swagger.io/)
+
+## Funcionalidades:
+
+- [x] Exibir *home*;  
+- [x] Cadastrar novos parceiros;  
+- [x] Listar todos os parceiros;  
+- [x] Atualizar um parceiro;  
+- [x] Remover um parceiro do banco de dados;  
+- [x] Criar um chabot
+
+### Próximas features:
+
+- [ ] Geração automatizada de *ranking*;  
+- [ ] Login *admin*;    
+- [ ] Autenticação das rotas;  
+- [ ] Criação de espaço para *networking*;  
+- [ ] Cadastro de usuários;  
+- [ ] Criar CONTRIBUTING.md
 
 ## Referências:
 
+- Site do evento: https://www.hackgrrrl.com/ ; 
+- Template code-review: https://github.com/hackgrrrl/code-review-template ;  
+- Como criar um chatbot: https://www.twilio.com/blog/como-criar-um-bot-no-whatsapp-em-5-minutos-em-node-js;  
+
 ## Agradecimentos:  
 
+Agradecemos imensamente à toda equipe Hack Grrrl! Assim como os patrocinadores e apoiadores: Globo, Twilio, Vinta, Pitang, Vtex, AmbevTech, Shawee, Github, Developer Circles - Recife.
+
 ## Autoras
+
 <p align="left">
 <a>
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/69424163?s=400&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4" width="100px;" alt=""/>
@@ -65,12 +102,14 @@
  <sub><b>Clarissa Leal</b></sub>
 </a>
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Clarissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarissa-leal/)](https://www.linkedin.com/in/clarissa-leal/)  
 <a>
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFnoaAGCncHBg/profile-displayphoto-shrink_800_800/0/1619744149712?e=1625702400&v=beta&t=q4OkOO42pZX1vba4-1getiRGL2CqQsF4OTyBHxgYviI" width="100px;" alt=""/>
  <br />
  <sub><b>Mayhhara Morais</b></sub>
-</a>
+</a>  
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mayhhara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/mflilian/)](https://www.linkedin.com/in/mayhhara-morais-78040a200/)
 
