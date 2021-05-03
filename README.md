@@ -58,7 +58,7 @@ Fazer o possível dentro do tempo estipulado, trabalhar em equipe.
 
 ## Possíveis mudanças
 
-Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger](https://swagger.io/). Utilizar o Dialog flow.
+Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger](https://swagger.io/). Utilizar o Dialogflow.
 
 ## Funcionalidades:
 
