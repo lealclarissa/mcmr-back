@@ -51,8 +51,8 @@ const updatePartner = (req, res) => {
 const removePartner = (req, res) => {
   const id = req.params.id;
 
-  partners.partnersModel.find({ id }, function (err, product) {
-    if (product.length > 0) {
+  partners.partnersModel.find({ id }, function (err, partner) {
+    if (partner.length > 0) {
       partners.partnersModel.deleteOne({ id }, function (err) {
         if (err) {
           res.status(500).send({
