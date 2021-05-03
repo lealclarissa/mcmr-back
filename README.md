@@ -58,16 +58,17 @@ Fazer o possível dentro do tempo estipulado, trabalhar em equipe.
 
 ## Possíveis mudanças
 
-Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger](https://swagger.io/)
+Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger](https://swagger.io/). Utilizar o Dialog flow.
 
 ## Funcionalidades:
 
 - [x] Exibir *home*;  
-- [x] Cadastrar novos parceiros;  
-- [x] Listar todos os parceiros;  
-- [x] Atualizar um parceiro;  
-- [x] Remover um parceiro do banco de dados;  
-- [x] Criar um chabot
+- [x] Rotas dos "parceiros":
+  - [x] Cadastrar novos parceiros;  
+  - [x] Listar todos os parceiros;  
+  - [x] Atualizar um parceiro;  
+  - [x] Remover um parceiro do banco de dados;  
+- [x] Criar um *chabot*
 
 ### Próximas features:
 
@@ -83,7 +84,7 @@ Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger
 - Site do evento: https://www.hackgrrrl.com/ ; 
 - Template code-review: https://github.com/hackgrrrl/code-review-template ;  
 - Como criar um chatbot: https://www.twilio.com/blog/como-criar-um-bot-no-whatsapp-em-5-minutos-em-node-js;
-- Banco de imagens: https://nappy.co/ ;    
+- Banco de imagens: https://nappy.co/     
 
 ## Agradecimentos:  
 
