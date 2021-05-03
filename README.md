@@ -7,14 +7,7 @@
   </a>
 </p>
 
-<!-- BANNER AQUI -->
-
-<p align="center">MEU CRESPO, MINHAS REGRAS
-</p>
-
-<h4 align="center"> 
-	:seedling:  Em Desenvolvimento  :seedling:
-</h4>
+# <p align="center"> MEU CRESPO, MINHAS REGRAS</p>
 
 =================
 
@@ -37,16 +30,18 @@
 
 ## Objetivo e motivação:
 
+Este projeto teve por objetivo criar uma platarforma que dá voz às mulheres com cabelo crespo e propõe mudanças em peças publicitárias. Isto foi feito através de nosso chatbot que recebe um feedback dessas mulheres e gera um *ranking* de empresas que têm uma comunicação mais assertiva e que realmente se preocupam em apresentar mais diversidade. 
 
+A motivação por trás de nossa iniciativa é o fato, comprovado através de pesquisas, de que mulheres negras com cabelos crespos não se veem representadas nas publicidades de produtos para seu cabelo.
 
 ## Tecnologias:
 
 - Back-end: [Node.js](https://nodejs.org/pt-br/);
-- Front-end: [Angular](https://angular.io/)
+- Front-end: [Angular](https://angular.io/) ;  
 - Frameworks: [Express](https://expressjs.com/pt-br/);
 - Gerenciador de pacotes: [Npm](https://www.npmjs.com/);
 - Testar rotas: [Postman](https://www.postman.com/);
-- Banco de dados: [MongoDB](https://www.mongodb.com/cloud/atlas);
+- Banco de dados: [Mongo Atlas](https://www.mongodb.com/cloud/atlas);
 - Deploy: [Heroku](https://www.heroku.com/)
 
 ## Escolhas das tecnologias:
@@ -87,11 +82,12 @@ Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger
 
 - Site do evento: https://www.hackgrrrl.com/ ; 
 - Template code-review: https://github.com/hackgrrrl/code-review-template ;  
-- Como criar um chatbot: https://www.twilio.com/blog/como-criar-um-bot-no-whatsapp-em-5-minutos-em-node-js;  
+- Como criar um chatbot: https://www.twilio.com/blog/como-criar-um-bot-no-whatsapp-em-5-minutos-em-node-js;
+- Banco de imagens: https://nappy.co/ ;    
 
 ## Agradecimentos:  
 
-Agradecemos imensamente à toda equipe Hack Grrrl! Assim como os patrocinadores e apoiadores: Globo, Twilio, Vinta, Pitang, Vtex, AmbevTech, Shawee, Github, Developer Circles - Recife.
+Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores e apoiadores: Globo, Twilio, Vinta, Pitang, Vtex, AmbevTech, Shawee, Github, Developer Circles - Recife.
 
 ## Autoras
 
