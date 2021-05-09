@@ -1,13 +1,11 @@
 <p align="center">
   <a> 
-    <a href="https://mcmr.herokuapp.com/"><img src="https://img.shields.io/badge/deploy-heroku.com-blueviolet" alt="Deploy on heroku"></a>
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lealclarissa/mcmr-back">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lealclarissa/mcmr-back">
-    <img alt="Github License" src="https://img.shields.io/github/license/lealclarissa/mcmr-back?logo=MIT">
+    <a href="https://mcmr.herokuapp.com/"><img src="https://img.shields.io/badge/deploy-heroku.com-brightgreen" alt="Deploy on heroku"></a>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lealclarissa/mcmr-back?color=brightgreen">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lealclarissa/mcmr-back?color=brightgreen">
+    <img alt="Github License" src="https://img.shields.io/github/license/lealclarissa/mcmr-back?color=brightgreen?logo=MIT">
   </a>
 </p>
-
-# <p align="center"> MEU CRESPO, MINHAS REGRAS</p>
 
 <h1 align="center">
   <img alt="Banner MCMR" title="#Banner MCMR" src="./assets/mcmr.jpg" />
@@ -40,9 +38,8 @@ A motivação por trás de nossa iniciativa é o fato, comprovado através de pe
 
 ## Tecnologias:
 
-- Back-end: [Node.js](https://nodejs.org/pt-br/);
+- Back-end: [Node.js](https://nodejs.org/pt-br/), [Express](https://expressjs.com/pt-br/);
 - Front-end: [Angular](https://angular.io/) ;  
-- Frameworks: [Express](https://expressjs.com/pt-br/);
 - Gerenciador de pacotes: [Npm](https://www.npmjs.com/);
 - Testar rotas: [Postman](https://www.postman.com/);
 - Banco de dados: [Mongo Atlas](https://www.mongodb.com/cloud/atlas);
@@ -50,11 +47,11 @@ A motivação por trás de nossa iniciativa é o fato, comprovado através de pe
 
 ## Escolhas das tecnologias:
 
-As escolhemos por já termos alguma experiência com as mesmas
+As escolhemos por já termos alguma experiência com as mesmas.
 
 ## Maior desafio:
 
-Conhecer e aprender a implementar novas tecnologias, como por exemplo o *bot* da @twilio.
+Conhecer e aprender a implementar novas tecnologias, como por exemplo o *chatbot* da @twilio.
 
 ## Maior aprendizado
 
@@ -94,6 +91,8 @@ Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger
 
 Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores e apoiadores: Globo, Twilio, Vinta, Pitang, Vtex, AmbevTech, Shawee, Github, Developer Circles - Recife.
 
+---
+
 ## Autoras
 
 <p align="left">
@@ -103,14 +102,14 @@ Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores
  <sub><b>Clarissa Leal</b></sub>
 </a>
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Clarissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarissa-leal/)](https://www.linkedin.com/in/clarissa-leal/)  
+
+
 <a>
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFnoaAGCncHBg/profile-displayphoto-shrink_800_800/0/1619744149712?e=1625702400&v=beta&t=q4OkOO42pZX1vba4-1getiRGL2CqQsF4OTyBHxgYviI" width="100px;" alt=""/>
  <br />
  <sub><b>Mayhhara Morais</b></sub>
 </a>  
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mayhhara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/mflilian/)](https://www.linkedin.com/in/mayhhara-morais-78040a200/)
 
@@ -140,7 +139,6 @@ Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ingrid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/)](https://www.linkedin.com/in/ingridtelino/)
-
 
 ---
 
