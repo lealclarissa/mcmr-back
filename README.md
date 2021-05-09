@@ -38,9 +38,8 @@ A motivação por trás de nossa iniciativa é o fato, comprovado através de pe
 
 ## Tecnologias:
 
-- Back-end: [Node.js](https://nodejs.org/pt-br/);
+- Back-end: [Node.js](https://nodejs.org/pt-br/), [Express](https://expressjs.com/pt-br/);
 - Front-end: [Angular](https://angular.io/) ;  
-- Frameworks: [Express](https://expressjs.com/pt-br/);
 - Gerenciador de pacotes: [Npm](https://www.npmjs.com/);
 - Testar rotas: [Postman](https://www.postman.com/);
 - Banco de dados: [Mongo Atlas](https://www.mongodb.com/cloud/atlas);
@@ -48,11 +47,11 @@ A motivação por trás de nossa iniciativa é o fato, comprovado através de pe
 
 ## Escolhas das tecnologias:
 
-As escolhemos por já termos alguma experiência com as mesmas
+As escolhemos por já termos alguma experiência com as mesmas.
 
 ## Maior desafio:
 
-Conhecer e aprender a implementar novas tecnologias, como por exemplo o *bot* da @twilio.
+Conhecer e aprender a implementar novas tecnologias, como por exemplo o *chatbot* da @twilio.
 
 ## Maior aprendizado
 
@@ -60,7 +59,7 @@ Fazer o possível dentro do tempo estipulado, trabalhar em equipe.
 
 ## Possíveis mudanças
 
-Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger](https://swagger.io/). Utilizar o Dialog flow.
+Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger](https://swagger.io/). Utilizar o Dialogflow.
 
 ## Funcionalidades:
 
@@ -92,6 +91,8 @@ Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger
 
 Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores e apoiadores: Globo, Twilio, Vinta, Pitang, Vtex, AmbevTech, Shawee, Github, Developer Circles - Recife.
 
+---
+
 ## Autoras
 
 <p align="left">
@@ -101,14 +102,14 @@ Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores
  <sub><b>Clarissa Leal</b></sub>
 </a>
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Clarissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarissa-leal/)](https://www.linkedin.com/in/clarissa-leal/)  
+
+
 <a>
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFnoaAGCncHBg/profile-displayphoto-shrink_800_800/0/1619744149712?e=1625702400&v=beta&t=q4OkOO42pZX1vba4-1getiRGL2CqQsF4OTyBHxgYviI" width="100px;" alt=""/>
  <br />
  <sub><b>Mayhhara Morais</b></sub>
 </a>  
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mayhhara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/mflilian/)](https://www.linkedin.com/in/mayhhara-morais-78040a200/)
 
@@ -138,7 +139,6 @@ Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ingrid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/)](https://www.linkedin.com/in/ingridtelino/)
-
 
 ---
 
