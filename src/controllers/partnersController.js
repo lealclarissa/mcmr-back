@@ -11,7 +11,7 @@ const addPartner = (req, res) => {
     }
     res
       .status(201)
-      .send({ status: true, message: "Partner succefully registred!" });
+      .send({ status: true, message: "Partner successfully registred!" });
   });
 };
 
@@ -37,7 +37,7 @@ const updatePartner = (req, res) => {
           if (err) {
             res.status(500).send({ message: err.message });
           }
-          res.status(200).send({ message: "Partner succefully updated!" });
+          res.status(200).send({ message: "Partner successfully updated!" });
         }
       );
     } else {
@@ -61,7 +61,7 @@ const removePartner = (req, res) => {
           });
         }
         res.status(200).send({
-          message: "Partner succefully removed from database!",
+          message: "Partner successfully removed from database!",
           status: "SUCCESS",
         });
       });
