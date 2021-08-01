@@ -95,50 +95,12 @@ Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores
 
 ## Autoras
 
-<p align="left">
-<a>
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/69424163?s=400&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Clarissa Leal</b></sub>
-</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Clarissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarissa-leal/)](https://www.linkedin.com/in/clarissa-leal/)  
+| [<img src="https://avatars2.githubusercontent.com/u/69424163?s=400&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4" width=115><br><sub>Clarissa Leal</sub>](https://www.linkedin.com/in/clarissa-leal/) |  [<img src="https://avatars.githubusercontent.com/u/69424067?v=4" width=115><br><sub>Mayhhara Morais</sub>](https://www.linkedin.com/in/mayhhara-morais-78040a200/)   |   [<img src="https://avatars.githubusercontent.com/u/57044209?v=4" width=115><br><sub>Maria Eduarda Santos</sub>](https://www.linkedin.com/in/maria-eduarda-carvalho-santos-63a639210/)  |     [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQE-brsK4Hfa_g/profile-displayphoto-shrink_200_200/0/1610712003092?e=1633564800&v=beta&t=Fb4lch2oyBX2AJIKLemkn4rFcYhUhZLOEb5F9zs1IM8" width=115><br><sub>Karina Ernane</sub>](https://www.linkedin.com/in/karinaernanedacosta)   |  [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHMQPfAeAVKTw/profile-displayphoto-shrink_200_200/0/1614697535457?e=1633564800&v=beta&t=zvW9cVcVmkTClN6ofSWzmtxC4DwSdSKkqBLgmaYneBg" width=115><br><sub>Ingrid Telino</sub>](https://www.linkedin.com/in/ingridtelino/) |  
+| :---: | :---: | :---: | :---: | :---:
 
 
-<a>
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFnoaAGCncHBg/profile-displayphoto-shrink_800_800/0/1619744149712?e=1625702400&v=beta&t=q4OkOO42pZX1vba4-1getiRGL2CqQsF4OTyBHxgYviI" width="100px;" alt=""/>
- <br />
- <sub><b>Mayhhara Morais</b></sub>
-</a>  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mayhhara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/mflilian/)](https://www.linkedin.com/in/mayhhara-morais-78040a200/)
-
-
-<a>
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E35AQFXaexN_n3swQ/profile-framedphoto-shrink_800_800/0/1619363388672?e=1620014400&v=beta&t=XDCqkUxTVhvDFD0jh3vT7Mkfq9qui061hcR0DKL-boU" width="100px;" alt=""/>
- <br />
- <sub><b>Maria Eduarda Santos</b></sub>
-</a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Duda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/auntduda)](https://www.linkedin.com/in/maria-eduarda-carvalho-santos-63a639210/)
-
-
-<a>
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQE-brsK4Hfa_g/profile-displayphoto-shrink_800_800/0/1610712003092?e=1625702400&v=beta&t=9iHVf4q5PHcf_32GMGtaicS5jugrxvSHI54nCXME9PU" width="100px;" alt=""/>
- <br />
- <sub><b>Karina Ernane</b></sub>
-</a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Karina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/)](https://www.linkedin.com/in/karinaernanedacosta)
-
-
-<a>
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHMQPfAeAVKTw/profile-displayphoto-shrink_800_800/0/1614697535457?e=1625702400&v=beta&t=fYjZ2orX0jezxj6MiuNXcvqSIIpZZCD0oqaZsiz9aSg" width="100px;" alt=""/>
- <br />
- <sub><b>Ingrid Telino</b></sub>
-</a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ingrid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/)](https://www.linkedin.com/in/ingridtelino/)
 
 ---
 
