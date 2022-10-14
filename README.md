@@ -21,7 +21,7 @@
 - [Maior aprendizado](#maior-aprendizado)
 - [Possíveis mudanças](#possíveis-mudanças)
 - [Funcionalidades](#funcionalidades)
-  - [Próximas features](#próximas-features)
+  - [Possíveis melhorias](#possíveis-melhorias)
 - [Referências](#referências)
 - [Agradecimentos](#agradecimentos)
 - [Autoras](#autoras)
@@ -71,14 +71,14 @@ Fazer uso de ferramentas que automatizem a documentação, por exemplo: [Swagger
   - [x] Remover um parceiro do banco de dados;  
 - [x] Criar um *chabot*
 
-### Próximas features:
+### Possíveis melhorias:
 
-- [ ] Geração automatizada de *ranking*;  
-- [ ] Login *admin*;    
-- [ ] Autenticação das rotas;  
-- [ ] Criação de espaço para *networking*;  
-- [ ] Cadastro de usuários;  
-- [ ] Criar CONTRIBUTING.md
+- Geração automatizada de *ranking*;  
+- Login *admin*;    
+- Autenticação das rotas;  
+- Criação de espaço para *networking*;  
+- Cadastro de usuários;  
+- Criar CONTRIBUTING.md
 
 ## Referências:
 
@@ -96,10 +96,8 @@ Agradecemos imensamente à toda equipe Hack Grrrl! Assim como aos patrocinadores
 ## Autoras
 
 
-| [<img src="https://avatars2.githubusercontent.com/u/69424163?s=400&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4" width=115><br><sub>Clarissa Leal</sub>](https://www.linkedin.com/in/clarissa-leal/) |  [<img src="https://avatars.githubusercontent.com/u/69424067?v=4" width=115><br><sub>Mayhhara Morais</sub>](https://www.linkedin.com/in/mayhhara-morais-78040a200/)   |   [<img src="https://avatars.githubusercontent.com/u/57044209?v=4" width=115><br><sub>Maria Eduarda Santos</sub>](https://www.linkedin.com/in/maria-eduarda-carvalho-santos-63a639210/)  |     [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQE-brsK4Hfa_g/profile-displayphoto-shrink_200_200/0/1610712003092?e=1633564800&v=beta&t=Fb4lch2oyBX2AJIKLemkn4rFcYhUhZLOEb5F9zs1IM8" width=115><br><sub>Karina Ernane</sub>](https://www.linkedin.com/in/karinaernanedacosta)   |  [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHMQPfAeAVKTw/profile-displayphoto-shrink_200_200/0/1614697535457?e=1633564800&v=beta&t=zvW9cVcVmkTClN6ofSWzmtxC4DwSdSKkqBLgmaYneBg" width=115><br><sub>Ingrid Telino</sub>](https://www.linkedin.com/in/ingridtelino/) |  
-| :---: | :---: | :---: | :---: | :---:
-
-
+| [<img src="https://avatars2.githubusercontent.com/u/69424163?s=400&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4" width=115><br><sub>Clarissa Leal</sub>](https://www.linkedin.com/in/clarissa-leal/) |  [<img src="https://avatars.githubusercontent.com/u/69424067?v=4" width=115><br><sub>Mayhhara Morais</sub>](https://www.linkedin.com/in/mayhhara-morais-78040a200/)  |  
+| :---: | :---: | 
 
 
 ---
